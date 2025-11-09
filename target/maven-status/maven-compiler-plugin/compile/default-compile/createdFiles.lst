@@ -1,0 +1,3 @@
+com\weatherapp\servlet\WeatherServlet.class
+com\weatherapp\service\WeatherService.class
+MyPackage\MyServlet.class
