@@ -1,5 +1,12 @@
 # Orbit - WeatherApp USING JAVA SERVLET JSP
 
+## Screenshots
+![WeatherApp Screenshot](screenshots/img1.png)
+
+![WeatherApp Screenshot](screenshots/img2.png)
+
+![WeatherApp Screenshot](screenshots/img3.png)
+
 ## Description
 WeatherApp is a simple Java web application developed using Servlets, JSP, HTML, CSS, and JavaScript. It integrates with the OpenWeatherMap API to fetch weather data for a given city and display it to the user.
 
@@ -63,12 +70,3 @@ Display current weather conditions including temperature, humidity, wind speed, 
 
   - In our JSP page (index.jsp), we used HTML and embedded Java code (EL expressions) to display the weather data.
   - Accessed the data from request attributes using ${attributeName} syntax.
-
-## Screenshots
-![WeatherApp Screenshot](screenshots/img1.png)
-
-![WeatherApp Screenshot](screenshots/img2.png)
-
-![WeatherApp Screenshot](screenshots/img3.png)
-
-
